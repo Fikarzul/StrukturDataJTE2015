@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Tumpukan()
+comment1.params=
+comment1.target=void\ tumpukkanKosong()
+comment2.params=data
+comment2.target=void\ tumpuk(java.math.BigInteger)
+comment3.params=
+comment3.target=java.math.BigInteger\ ambil()
+comment4.params=
+comment4.target=java.math.BigInteger\ atas()
+comment5.params=
+comment5.target=java.math.BigInteger\ bawah()
+numComments=6
